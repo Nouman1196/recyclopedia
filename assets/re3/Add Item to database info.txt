@@ -1,0 +1,9 @@
+Add Item - this is a form to send info to: re3@recycleopedia.info
+
+
+
+Please enter the item name to add to our database
+
+The item's Barcode Number (if it has one)
+
+The main materials it's made from
